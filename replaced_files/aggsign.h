@@ -83,5 +83,4 @@ void best_route(const Sign sign, List *list1, TList *list2);
 // ********** Algorithm 8 RemSign **********//
 void RemSign(Sign sign1, List *list1, Sign sign2, List *list2);
 
-// ********** Algorithm 9 Tracing **********//
 
