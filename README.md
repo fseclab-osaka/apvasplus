@@ -11,6 +11,8 @@ A protocol that reduces the memory consumption of routers running BGPsec by usin
    http://www.cipher.risk.tsukuba.ac.jp/tepla/index.html
 
 1. Replace bird-1.6.0/proto/bgp/packets.c 
+   This is packets.c with an example of the second AS from the route generator AS in the network. 
+   In addition, please add bird-1.6.0/proto/bgp/aggsign.h.
 
 1. Run setup.sh
 
