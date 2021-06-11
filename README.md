@@ -2,6 +2,9 @@
 A protocol that reduces the memory consumption of routers running BGPsec by using aggregate signatures when validating AS_PATHs in routing information.
 
 # usage
+The APVAS+ prototype is based on the BIRD Internet Routing Daemon.
+The way to handle the daemons, e.g., start, stop, configuration, etc., is unified with the original BIRD.
+
 1. Download and install BIRD ver 1.6.0 according to the following site.
 
    https://bird.network.cz/
