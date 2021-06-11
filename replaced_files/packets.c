@@ -621,12 +621,6 @@ void RemSign(Sign sign1, List *list1, Sign sign2, List *list2)
     printf("\n");
 }
 
-
-
-
-// ********** Algorithm 9 Tracing **********//
-//Para para;
-
 void initial_setup(){
     Setup(&para);
     
